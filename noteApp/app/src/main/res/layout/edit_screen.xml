@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".EditScreen" android:layout_margin="16dp">
+    <Button
+            android:text="save"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/es_button"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498" app:layout_constraintBottom_toBottomOf="parent"
+    />
+    <Switch
+            android:text="Important"
+            android:layout_width="114dp"
+            android:layout_height="50dp" android:id="@+id/es_toggle"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintTop_toBottomOf="@+id/es_textView1"/>
+    <TextView
+            android:text="Add New Note"
+            android:layout_width="175dp"
+            android:layout_height="40dp" android:id="@+id/es_textView1"
+            app:layout_constraintTop_toTopOf="parent" app:layout_constraintStart_toStartOf="parent"
+            android:textStyle="bold" android:textSize="20sp"/>
+    <EditText
+            android:layout_width="379dp"
+            android:layout_height="42dp"
+            android:ems="10"
+            android:id="@+id/es_textView2"
+            app:layout_constraintStart_toStartOf="parent" app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/es_toggle" android:textStyle="bold" android:hint="Title"
+            android:inputType="text"/>
+    <EditText
+            android:layout_width="380dp"
+            android:layout_height="392dp"
+            android:inputType="textMultiLine"
+            android:gravity="start|top"
+            android:ems="10"
+            android:id="@+id/es_textView3"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" app:layout_constraintTop_toBottomOf="@+id/es_textView2"
+            app:layout_constraintBottom_toTopOf="@+id/es_button" android:hint="Body"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
+

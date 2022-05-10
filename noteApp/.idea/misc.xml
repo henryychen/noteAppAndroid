@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout-land/edit_screen.xml" value="0.2985008818342152" />
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout-land/fragment_1.xml" value="0.25" />
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout-land/list_screen.xml" value="0.2985008818342152" />
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout-land/note_item.xml" value="0.5" />
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout-land/view_screen.xml" value="0.5" />
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout/activity_main.xml" value="0.209375" />
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout/edit_screen.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout/edit_screen_fragment.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout/fragment_1.xml" value="0.33" />
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout/fragment_2.xml" value="0.25" />
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout/list_screen.xml" value="0.33" />
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout/note_item.xml" value="0.67" />
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout/view_screen.xml" value="0.2421875" />
+        <entry key="..\:/Users/henry/IdeaProjects/Android/StartingTemplate/app/src/main/res/layout/view_screen_fragment.xml" value="0.25" />
+        <entry key="..\:/Users/henry/IdeaProjects/hy5chen/a4/a4-basic/app/src/main/res/layout/activity_main.xml" value="0.246875" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android API 30 Platform" project-jdk-type="Android SDK" />
+</project>
